@@ -25,7 +25,7 @@ The feature selection techniques used are:
 
 # CODING AND OUTPUT:
 ```
-NAME : MURALI
+NAME : MURALI S
 REG NO : 212222230088
 ```
 ```python
